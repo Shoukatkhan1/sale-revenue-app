@@ -1,0 +1,13 @@
+{
+    "ProductCategory": "Electronics",
+    "Region": "North",
+    "CustomerSegment": "High Income",
+    "IsPromotionApplied": "Yes",
+    "ProductionCost": 600,
+    "MarketingSpend": 250,
+    "SeasonalDemandIndex": 1.5,
+    "CompetitorPrice": 320,
+    "CustomerRating": 4.5,
+    "EconomicIndex": 120,
+    "StoreCount": 45
+}
